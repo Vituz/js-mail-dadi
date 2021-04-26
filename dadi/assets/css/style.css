@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 20px;
+  width: 200px;
+  height: 50px;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+
+#victory_msg {
+  margin: 20px;
+}
+
+.game_1,
+.game_2 {
+  display: inline-block;
+  text-align: center;
+  margin: 20px;
+}
